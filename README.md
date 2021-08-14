@@ -14,4 +14,4 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 ## Code 401 - Advanced Software Development
 
 [reading-notes page](https://idcargill.github.io/reading-notes/)
-[Code 301 Prework](https://idcargill.github.io/reading-notes/Prework301.md)
+[Code 301 Prework](https://idcargill.github.io/reading-notes/Prework301)
