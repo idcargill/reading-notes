@@ -12,3 +12,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
+
+[reading-notes page](https://idcargill.github.io/reading-notes/)
