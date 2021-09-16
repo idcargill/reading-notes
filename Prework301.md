@@ -2,8 +2,8 @@
 
 - [x] [Dive into React](https://www.youtube.com/watch?v=FRjlF74_EZk)
 - [ ] [Setup Your Laptop for Code 301](https://codefellows.github.io/setup-guide/code-301/)
-- [ ] [ES6 Arrow Functions in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/arrow-functions/)
-- [ ] [ES6 Classes in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/classes/)
+- [x] [ES6 Arrow Functions in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/arrow-functions/)
+- [x] [ES6 Classes in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/classes/)
 - [ ] [Read 01 -Introduction to React and Components](https://codefellows.github.io/code-301-guide/curriculum/class-01/DISCUSSION)
 - [x] [CSS Diner](https://codefellows.github.io/code-301-guide/curriculum/prework/css_diner.html)
 - [ ] [Chocolate Pizza](https://codefellows.github.io/code-301-guide/curriculum/prework/chocolate_pizza)
