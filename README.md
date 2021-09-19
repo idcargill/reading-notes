@@ -10,6 +10,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 ## Code 201 - Foundations of Software Development
 
 ## Code 301 - Intermediate Software Development
-[React Components 9.18](https://idcargill.github.io/reading-notes/Prework301)
+[React Components 9.18](https://idcargill.github.io/reading-notes/ReactComponents)
 
 ## Code 401 - Advanced Software Development
