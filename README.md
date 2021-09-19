@@ -11,6 +11,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 ## Code 301 - Intermediate Software Development
 
-[React Components 9.18](https://idcargill.github.io/reading-notes/ReactComponents)
+[01 - React Components 9.18](https://idcargill.github.io/reading-notes/Read01_ReactComponents)
 
 ## Code 401 - Advanced Software Development
