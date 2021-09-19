@@ -3,7 +3,7 @@
 What is a component?
 A component is a modular, reusable code that is well defined and encapsulated.
 
-What are the charactistics of a component?
+What are the characteristics of a component?
 Reusability, replaceability, not context specific, extensible, encapsulated, and independent.
 [From component based architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
