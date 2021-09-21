@@ -2,8 +2,7 @@
 
 Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/prep_work/Setup_Readings) (_Career Pathways_)
 
-[reading-notes web site](https://idcargill.github.io/reading-notes/)
-[Code 301 Prework](https://idcargill.github.io/reading-notes/Prework301)
+[reading-notes Live site](https://idcargill.github.io/reading-notes/)
 
 ## Code 102 - Intro to Software Development
 
