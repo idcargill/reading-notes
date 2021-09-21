@@ -8,21 +8,21 @@
 2. What is the very first thing to happen in the lifecycle of React?
 &nbsp;&nbsp;&nbsp;&nbsp;A: a constructor function is called.
 3. Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
-&nbsp;&nbsp;&nbsp;&nbsp;Answer:
-    - constructor
-    - render
-    - componentDidMount
-    - React Updates
-    - componentWillUnmount
+    1. constructor
+    2. render
+    3. componentDidMount
+    4. React Updates
+    5. componentWillUnmount
 
 4. What does componentDidMount do?
 &nbsp;&nbsp;&nbsp;&nbsp;A: componentDidMount() is invoked immmediatly after a component has been mounted/created.
 
 ## Questions: React State VS Props
+
 [state vs props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
 1. What types of things can you pass in the props?
-&nbsp;&nbsp;&nbsp;&nbsp;A: Any value that you could pass to a function that is handled outside of a component.
+&nbsp;&nbsp;&nbsp;&nbsp;A: Any value that you could pass to a function that must be handled outside of a component.
 2. What is the big difference between props and state?
 &nbsp;&nbsp;&nbsp;&nbsp;A: Props are handled outside of a component and passed down. State is private and managed within a component.
 3. When do we re-render our application?
@@ -47,7 +47,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Privious state of the DOM before anything renders.
 
 - componenetDidUpdate()
-&nbsp;&nbsp;&nbsp; Perform network requets after a change has occured.
+&nbsp;&nbsp;&nbsp; Perform network requets after component/state change has occured.
 
 - componentWillUnmount()
 &nbsp;&nbsp;&nbsp;&nbsp; Cleanup after a componenet is unmounted.
