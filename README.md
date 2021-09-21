@@ -12,6 +12,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [01 - React Components 9.18](https://idcargill.github.io/reading-notes/Code301/Read01_ReactComponents)
 
-[02 - React State and Props](https://idcargill.github.io/reading-notes/Code301/Reading02_State_Props)
+[02 - React State and Props](https://idcargill.github.io/reading-notes/Code301/Read02_State_Props)
 
 ## Code 401 - Advanced Software Development
