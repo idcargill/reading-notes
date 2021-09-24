@@ -1,6 +1,6 @@
 # Passing Functions as Props
 
-[List and Keys - React Docs](https://reactjs.org/docs/lists-and-keys.html)
+## [List and Keys - React Docs](https://reactjs.org/docs/lists-and-keys.html)
 
 1. What does .map() return?<br>
 &nbsp;&nbsp;The map method perfomrs code on each array item and returns an array of equal lenght.
@@ -34,7 +34,7 @@ render() {
 4. What is the purpose of a key?<br>
 &nbsp;&nbsp;Keys tell react which elements have changed so react knows when and what to render.
 
-[Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+## [Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
 1. What is the spread operator? <br>
 &nbsp;&nbsp;The spread operator will expand an object into individual items that can be passed as arguments.
@@ -74,10 +74,7 @@ render() {
     // newArr = [ 'cat', 'kitten', 'tiger', 'shark' ]
 ```
 
-
-
 5. Give an example of using the spread operator to combine two objects into one.
-
 
 ```javascript
 // Combine 2 objects into 1
@@ -94,8 +91,7 @@ const newObj = { ...obj1, ...obj2 };
 */
 ```
 
-
-[Passing Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+## [Passing Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 1. In the video, what is the first step that the developer does to pass functions between components?<br>
 &nbsp;&nbsp;Create a function at the state level to update state.
