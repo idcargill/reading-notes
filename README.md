@@ -14,4 +14,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [02 - React State and Props](https://idcargill.github.io/reading-notes/Code301/Read02_State_Props)
 
+[03 - Passing Functions as Props](https://idcargill.github.io/reading-notes/Code301/Read03_Passing_Props)
+
 ## Code 401 - Advanced Software Development
