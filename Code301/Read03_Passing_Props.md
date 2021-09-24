@@ -109,6 +109,7 @@ const newObj = { ...obj1, ...obj2 };
 
 - Spread operator
 - State management
+- Markdown tricks
 
 ## Further Reading
 
