@@ -10,10 +10,12 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 ## Code 301 - Intermediate Software Development
 
-[01 - React Components 9.18](https://idcargill.github.io/reading-notes/Code301/Read01_ReactComponents)
+[1 - React Components](https://idcargill.github.io/reading-notes/Code301/Read01_ReactComponents)
 
-[02 - React State and Props](https://idcargill.github.io/reading-notes/Code301/Read02_State_Props)
+[2 - React State and Props](https://idcargill.github.io/reading-notes/Code301/Read02_State_Props)
 
-[03 - Passing Functions as Props](https://idcargill.github.io/reading-notes/Code301/Read03_Passing_Props)
+[3 - Passing Functions as Props](https://idcargill.github.io/reading-notes/Code301/Read03_Passing_Props)
+
+[4 - React Forms](https://idcargill.github.io/reading-notes/Code301/Read04_React_Forms)
 
 ## Code 401 - Advanced Software Development
