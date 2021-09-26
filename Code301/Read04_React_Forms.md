@@ -21,6 +21,7 @@ Ternary operators result in cleaner and more condensed code than traditional if 
 
 2. Rewrite the following statement using a 
 ternary statement:
+
 ```javascript
 // Traditional If statement
   if(x===y){
