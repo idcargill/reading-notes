@@ -18,6 +18,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [4 - React Forms](https://idcargill.github.io/reading-notes/Code301/Read04_React_Forms)
 
-[5 - Thinking in React](https://idcargill.github.io/reading-notes/Code301/Read05_Thinking_React.md)
+[5 - Thinking in React](https://idcargill.github.io/reading-notes/Code301/Read05_Thinking_React)
 
 ## Code 401 - Advanced Software Development
