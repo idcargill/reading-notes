@@ -20,4 +20,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [5 - Thinking in React](https://idcargill.github.io/reading-notes/Code301/Read05_Thinking_React)
 
+[6 - Node.js](https://idcargill.github.io/reading-notes/Code301/Read06_Node)
+
 ## Code 401 - Advanced Software Development
