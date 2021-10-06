@@ -1,17 +1,17 @@
 Friday 10/1
- - Read  05
+ X - Read  05
 
 Saturday
-- Lab 05
-- Retro 05
+X - Lab 05
+X - Retro 05
 
 Sunday
-- Feedback Week2
+X - Feedback Week2
 
 Monday
 - Career Questions Mock interview
-- Code Challenge 05
-- Read 06
+- Code Challenge 05  Reduce 
+- Read 06 Node.js
 
 Tue/Wed 
 - Lab 06
