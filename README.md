@@ -22,4 +22,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [6 - Node.js](https://idcargill.github.io/reading-notes/Code301/Read06_Node)
 
+[7 - REST](https://idcargill.github.io/reading-notes/Code301/Read07_REST)
+
 ## Code 401 - Advanced Software Development
