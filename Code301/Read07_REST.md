@@ -44,6 +44,12 @@
 3. Did you get your API key?\
    No, the website broke.
 
-[The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction) 4. Did you get your API key?
+[The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
+
+4. Did you get your API key?\
+   yes
 
 ## Things I want to know more about
+
+- Why TMDB needs my phone number.
+- Setting up secure endpoints.
