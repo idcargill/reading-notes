@@ -10,15 +10,22 @@ X - Feedback Week2
 
 Monday
 - Career Questions Mock interview
-- Code Challenge 05  Reduce 
-- Read 06 Node.js
+X - Code Challenge 05  Reduce 
+X - Read 06 Node.js
 
 Tue/Wed 
-- Lab 06
-- Retro 06
+X - Lab 06
+X - Retro 06
 
 Thursday 10/7
-- Code Challenge 06
+X - Code Challenge 06
 
 Friday
 - Read 07
+
+Saturday
+- Career Hour
+- Lab 07
+- Retro 07
+- Feedback week 3
+- Student/Instructor one-on-one
