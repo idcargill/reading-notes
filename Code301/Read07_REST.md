@@ -42,7 +42,7 @@
 [Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
 
 3. Did you get your API key?\
-   No, the website broke.
+   yes
 
 [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
 
