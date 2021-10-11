@@ -21,11 +21,11 @@ Thursday 10/7
 X - Code Challenge 06
 
 Friday
-- Read 07
+X - Read 07
 
 Saturday
 - Career Hour
-- Lab 07
+- Lab 07  -SERVER
 - Retro 07
 - Feedback week 3
 - Student/Instructor one-on-one
