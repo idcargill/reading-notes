@@ -24,6 +24,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [7 - REST](https://idcargill.github.io/reading-notes/Code301/Read07_REST)
 
-[8 - REST](https://idcargill.github.io/reading-notes/Code301/Read07_API)
+[8 - API](https://idcargill.github.io/reading-notes/Code301/Read07_API)
 
 ## Code 401 - Advanced Software Development
