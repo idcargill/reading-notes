@@ -1,0 +1,14 @@
+What are your goals while taking this course?
+To get a deeper understanding of coding concepts and techniques. 
+
+Are there any areas of concern, questions about the course or adjustments we might consider?
+I'd like to see more time coding more nuances of dealing with coding concepts such as more robust error handling with try/catch or loops,
+and see the different approaches to handling code flow.  
+
+What professional proficiency would you consider to be your top strength?
+Improving inefficient workflows. 
+
+
+What areas of professional competency would you like to improve?
+I'd like to improve my understanding of coding in general and delployment environements. 
+
