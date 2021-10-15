@@ -1,0 +1,17 @@
+Retro 8
+
+1. What went well, that I might forget if I don’t write down?
+Code structure and overall flow. Stay stayed high and handled state, functions and classes were broken into separate modules. 
+
+2. What did I learn today?
+Run a spell checker in vsCode. Minor typos were difficult to detect.
+
+3. What should I do differently next time?
+Trust that if the http request is working properly then there is a request error. Also, double check the "error response." Wasn't expecting the movie "UNdefined."
+
+4. What still puzzles me, or what do I need to learn more about?
+CSS grid / bootstrap   I waste a lot of time looking up raw layout. 
+
+
+Is the assignment complete? If not, where exactly did you leave off, and what work remains?
+Complete? The development works, backend API is deployed and working on Heroku.  I've been hit and miss with Netlify => Heroku connection.  Had a scripting error originally. 
