@@ -26,4 +26,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [8 - API](https://idcargill.github.io/reading-notes/Code301/Read08_API)
 
+[9 - Functional Programming](https://idcargill.github.io/reading-notes/Code301/Read09_Functional_Programming)
+
 ## Code 401 - Advanced Software Development
