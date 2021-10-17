@@ -28,4 +28,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [9 - Functional Programming](https://idcargill.github.io/reading-notes/Code301/Read09_Functional_Programming)
 
+[10 - Memory Storage](https://idcargill.github.io/reading-notes/Code301/Read10_Memory_Storage)
+
 ## Code 401 - Advanced Software Development
