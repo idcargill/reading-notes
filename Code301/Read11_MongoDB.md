@@ -59,3 +59,7 @@
 
 9. What is the disadvantage of a NoSQL database?\
    The data is not structured across all records and does not work well for relational data and all records do no necessarily share the same fields.
+
+## Things I want to know more about
+
+- Mongoose, never used it
