@@ -32,4 +32,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [11 - MongoDB](https://idcargill.github.io/reading-notes/Code301/Read11_MongoDB)
 
+[12 - CRUD](https://idcargill.github.io/reading-notes/Code301/Read12_CRUD)
+
 ## Code 401 - Advanced Software Development
