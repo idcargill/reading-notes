@@ -27,20 +27,30 @@
 [Node API -WebDev](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?\
+   To protect the connection location for our database once deployed.
 
 2. What is middleware?\
+   Middle ware is software the runs on the server after a request and before a response is sent.
 
 3. What does app.use(express.json()) do?\
+   Allows express to accept JSON file formats.
 
 4. What does the /:id mean in a route?\
+   The id is a route parameter sent in the request.
 
-5. What is the difference beween PUT and PATCH?\
+5. What is the difference between PUT and PATCH?\
+   PUT updates all information, PATCH updates only the information passed.
 
-6. How do you make a defalut value in a schema?\
+6. How do you make a default value in a schema?\
+   Set a default value in the model definition.
 
 7. What does a 500 error status code mean?\
+   Server Error.
 
 8. What is the difference between a status 200 and a status 201?\
+
+- 200 A request was successful
+- 201 A new object was created successfully.
 
 ## Things I want to know more about
 
