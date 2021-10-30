@@ -1,0 +1,17 @@
+Retro 12
+
+1. What went well, that I might forget if I don’t write down?
+Alwasy check HTTP parsing for POST requests.
+
+2. What did I learn today?
+POST requests with REST Client.
+
+3.What should I do differently next time?
+Double check api connections right away.  
+
+4.What still puzzles me, or what do I need to learn more about?
+Mongoose/Schema organization. 
+
+
+Is the assignment complete? If not, where exactly did you leave off, and what work remains?
+Incomplete.  Server side routing is set up. 
