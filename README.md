@@ -36,6 +36,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [13 - Diversity](https://idcargill.github.io/reading-notes/Code301/Read13_Diversity)
 
-[13 - Diversity](https://idcargill.github.io/reading-notes/Code301/Read14_OAuth)
+[14 - OAuth](https://idcargill.github.io/reading-notes/Code301/Read14_OAuth)
 
 ## Code 401 - Advanced Software Development
