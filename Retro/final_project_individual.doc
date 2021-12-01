@@ -1,0 +1,22 @@
+What contributions did you personally make? Please describe all of your contributions 
+(e.g., artwork, videography, animations, layout, typography and other styling, HTML structure, 
+JS for DOM manipulation, JS logic, localStorage, research of tools and techniques, testing, etc.).
+
+- Javscript code for HTML canvas manipulation.
+- Most of the frontend build out of structure and components (Modals, state management, canvas rendering, server HTTP requests)
+- Joining the front & backend data schema.
+- Managing git code integration. 
+- CSS, layout, and component integration across collaborators
+
+
+
+
+Front End Commit Graph: https://github.com/garden-fullstack-app/Garden-Front-End/pulse
+Backend Commit Graph: https://github.com/garden-fullstack-app/server/pulse
+
+
+
+
+The team did a good job of working on independent pieces to avoid merge conflicts. 
+We were able to locally merge in any new branches and safely push up to the remote. From the beginning we had a wire frame concept in place to help us maintain organized structure. 
+We would meet at the beginning of class to go over concepts and issues, and discuss how we would link our front-back data connections. 

@@ -1,0 +1,16 @@
+Retro 14
+
+1. What went well, that I might forget if I don’t write down?
+Iterating through the Auth0 setup components. 
+
+2. What did I learn today?
+OAth front end setup. 
+
+3. What should I do differently next time?
+Not pair code. 
+
+4. What still puzzles me, or what do I need to learn more about?
+Oath Server access
+
+Is the assignment complete? If not, where exactly did you leave off, and what work remains?
+Incomplete.  Front end needs refactoring to manage conditional components.  Too many layers of conditional logic and large components. 

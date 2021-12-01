@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+Project Report 2
+
+1. What progress did your team make today?
+  Explored 2 options for drag and drop objects in a display container.
+  Using Canvas or a large CSS grid with drag/drop items. 
+
+2. What specific contributions did you make? Please share links to your work from today (documentation or PRs/commits).
+  Reviewed team PR, created 2 examples of drag/drop displays. Added Pest modal. https://github.com/garden-fullstack-app/Garden-Front-End/pull/4
+
+3. What has been most challenging today? Your responses here are held confidential within the instructional team.
+  Accessing individual objects in html canvas. 
