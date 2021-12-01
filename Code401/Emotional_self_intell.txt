@@ -1,0 +1,27 @@
+4     
+3       
+4
+3
+4
+5
+4
+2
+4
+4
+3
+2
+3
+4
+2
+4
+3
+5
+4
+3
+
+
+
+self-aware: 44422               16
+self-Management: 45435          21
+Social-Awareness: 34434         18
+Relationship Management: 32343  15
