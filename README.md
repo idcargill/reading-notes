@@ -41,3 +41,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 ## Code 401 - Advanced Software Development
 
 [Growth Mindset](https://idcargill.github.io/reading-notes/Code401/Read00_Mindset)
+
+[Reading 1 - Big 0](https://idcargill.github.io/reading-notes/Code401/Read01)
