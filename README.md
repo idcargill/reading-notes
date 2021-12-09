@@ -45,3 +45,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 1 - Big 0](https://idcargill.github.io/reading-notes/Code401/Read01)
 
 [Reading 2 - Testing & Modules](https://idcargill.github.io/reading-notes/Code401/Read02)
+
+[Reading 3 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read03)
