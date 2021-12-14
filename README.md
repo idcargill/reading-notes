@@ -48,7 +48,7 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 3 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read03)
 
-[Reading 4 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read04)
+[Reading 4 - Classes & Objects](https://idcargill.github.io/reading-notes/Code401/Read04)
 
 <!-- [Reading 5 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read05)
 
