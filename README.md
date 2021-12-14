@@ -47,3 +47,23 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 2 - Testing & Modules](https://idcargill.github.io/reading-notes/Code401/Read02)
 
 [Reading 3 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read03)
+
+[Reading 4 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read04)
+
+<!-- [Reading 5 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read05)
+
+[Reading 6 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read06)
+
+[Reading 7 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read07)
+
+[Reading 8 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read08)
+
+[Reading 9 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read09)
+
+[Reading 10 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read10)
+
+[Reading 11 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read11)
+
+[Reading 12 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read12)
+
+[Reading 13 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read13) -->
