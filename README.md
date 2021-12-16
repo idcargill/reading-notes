@@ -50,9 +50,9 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 4 - Classes & Objects](https://idcargill.github.io/reading-notes/Code401/Read04)
 
-<!-- [Reading 5 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read05)
+[Reading 5 - Linked Lists](https://idcargill.github.io/reading-notes/Code401/Read05)
 
-[Reading 6 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read06)
+<!-- [Reading 6 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read06)
 
 [Reading 7 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read07)
 
