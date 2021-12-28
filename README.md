@@ -54,9 +54,9 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 6 - Game of Greed 1](https://idcargill.github.io/reading-notes/Code401/Read06)
 
-<!-->
-[Reading 7 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read07)
+[Reading 7 - Game of Greed 2](https://idcargill.github.io/reading-notes/Code401/Read07)
 
+<!-->
 [Reading 8 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read08)
 
 [Reading 9 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read09)
