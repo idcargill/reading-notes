@@ -58,8 +58,7 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 8 - Game of Greed 3](https://idcargill.github.io/reading-notes/Code401/Read08)
 
-<!-->
-[Reading 9 - ](https://idcargill.github.io/reading-notes/Code401/Read09)
+[Reading 9 -Game of Greed 4](https://idcargill.github.io/reading-notes/Code401/Read09)
 
 [Reading 10 - ](https://idcargill.github.io/reading-notes/Code401/Read10)
 
@@ -68,4 +67,4 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 12 - ](https://idcargill.github.io/reading-notes/Code401/Read12)
 
 [Reading 13 - ](https://idcargill.github.io/reading-notes/Code401/Read13)
- --!>
+
