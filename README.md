@@ -62,7 +62,7 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 10 - ](https://idcargill.github.io/reading-notes/Code401/Read10)
 
-[Reading 11 - ](https://idcargill.github.io/reading-notes/Code401/Read11)
+[Reading 11 - Numpy](https://idcargill.github.io/reading-notes/Code401/Read11)
 
 [Reading 12 - ](https://idcargill.github.io/reading-notes/Code401/Read12)
 

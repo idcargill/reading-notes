@@ -1,0 +1,20 @@
+Stack vs Queue
+
+Stacks:
+  - FILO
+  - Call stack, browser history, pancakes
+  - Singly linked list or Array.
+  - Add and remove the most recent item from the head of a linked list.
+  - adding and removing 1 item are time complexity O(1)
+  - push on / pop off
+
+
+Queue:
+  - FIFO
+  - waiting in linked
+  - add item to the end, remove from the front
+  - Circularly linked list
+  - Enqueue: items added to Queue
+  - Dequeue: items removed from Queue
+  - Enqueue O(1)   / Dequeue O(1)
+  - Enqueue on the rear, Dequeue from the front
