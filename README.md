@@ -66,5 +66,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 12 - Pandas](https://idcargill.github.io/reading-notes/Code401/Read12)
 
-[Reading 13 - ](https://idcargill.github.io/reading-notes/Code401/Read13)
+[Reading 13 - Linear Regression](https://idcargill.github.io/reading-notes/Code401/Read13)
 
