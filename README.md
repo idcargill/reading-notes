@@ -67,4 +67,8 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 12 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read12)
 
+<<<<<<< Updated upstream
 [Reading 13 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read13) -->
+=======
+[Reading 14 - Data Visualization](https://idcargill.github.io/reading-notes/Code401/Read14)
+>>>>>>> Stashed changes
