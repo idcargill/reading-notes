@@ -56,19 +56,16 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 7 - Game of Greed 2](https://idcargill.github.io/reading-notes/Code401/Read07)
 
-<!-->
-[Reading 8 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read08)
+[Reading 8 - Game of Greed 3](https://idcargill.github.io/reading-notes/Code401/Read08)
 
-[Reading 9 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read09)
+[Reading 9 -Game of Greed 4](https://idcargill.github.io/reading-notes/Code401/Read09)
 
-[Reading 10 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read10)
+[Reading 10 - ](https://idcargill.github.io/reading-notes/Code401/Read10)
 
-[Reading 11 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read11)
+[Reading 11 - Numpy](https://idcargill.github.io/reading-notes/Code401/Read11)
 
-[Reading 12 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read12)
+[Reading 12 - Pandas](https://idcargill.github.io/reading-notes/Code401/Read12)
 
-<<<<<<< Updated upstream
-[Reading 13 - FileIO & Exceptions](https://idcargill.github.io/reading-notes/Code401/Read13) -->
-=======
+[Reading 13 - Linear Regression](https://idcargill.github.io/reading-notes/Code401/Read13)
+
 [Reading 14 - Data Visualization](https://idcargill.github.io/reading-notes/Code401/Read14)
->>>>>>> Stashed changes
