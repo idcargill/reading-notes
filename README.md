@@ -60,7 +60,7 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 9 -Game of Greed 4](https://idcargill.github.io/reading-notes/Code401/Read09)
 
-[Reading 10 - ](https://idcargill.github.io/reading-notes/Code401/Read10)
+[Reading 10 - _ ](https://idcargill.github.io/reading-notes/Code401/Read10)
 
 [Reading 11 - Numpy](https://idcargill.github.io/reading-notes/Code401/Read11)
 
@@ -69,3 +69,8 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 13 - Linear Regression](https://idcargill.github.io/reading-notes/Code401/Read13)
 
 [Reading 14 - Data Visualization](https://idcargill.github.io/reading-notes/Code401/Read14)
+
+[Reading 15 - Trees](https://idcargill.github.io/reading-notes/Code401/Read15)
+
+[Reading 16 - Serverless Functions](https://idcargill.github.io/reading-notes/Code401/Read16)
+
