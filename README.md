@@ -74,3 +74,4 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 16 - Serverless Functions](https://idcargill.github.io/reading-notes/Code401/Read16)
 
+[Reading 17 - Serverless Functions](https://idcargill.github.io/reading-notes/Code401/Read17)
