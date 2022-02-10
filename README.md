@@ -77,3 +77,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 17 - Web Scraping](https://idcargill.github.io/reading-notes/Code401/Read17)
 
 [Reading 18 - Cryptography](https://idcargill.github.io/reading-notes/Code401/Read18)
+
+[Reading 19 - Automation](https://idcargill.github.io/reading-notes/Code401/Read19)
