@@ -79,3 +79,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 18 - Cryptography](https://idcargill.github.io/reading-notes/Code401/Read18)
 
 [Reading 19 - Automation](https://idcargill.github.io/reading-notes/Code401/Read19)
+
+[Reading 28 - Django](https://idcargill.github.io/reading-notes/Code401/Read28)
