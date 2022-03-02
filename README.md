@@ -80,4 +80,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 19 - Automation](https://idcargill.github.io/reading-notes/Code401/Read19)
 
-[Reading 28 - Django](https://idcargill.github.io/reading-notes/Code401/Read28)
+[Reading 26 - Django](https://idcargill.github.io/reading-notes/Code401/Read26)
+
+[Reading 27 - Django](https://idcargill.github.io/reading-notes/Code401/Read27)

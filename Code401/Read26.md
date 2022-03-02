@@ -27,7 +27,7 @@ django-admin startproject <webProject>
 cd my <webProject>
 
 ## dev server
-python manage.py runner
+python manage.py runserver
 
 ## Create an APP in the project from same level as manage.py
 python manage.py startapp <appName>
