@@ -124,9 +124,6 @@ class AuthorDelete(DeleteView):
 Create and update views use the dame template. Other custom views can be created.
 
 
-
-{% extends "base_generic.html" %}
-
 {% block content %}
   <form action="" method="post">
     {% csrf_token %}
@@ -136,6 +133,8 @@ Create and update views use the dame template. Other custom views can be created
     <input type="submit" value="Submit">
   </form>
 {% endblock %}
+
+
 
 
 
@@ -174,8 +173,6 @@ urlpatterns += [
 
 Child Page:
 
-
-{% extends "base_generic.html" %}
 
 {% block content %}
   <h1>Local Library Home</h1>
