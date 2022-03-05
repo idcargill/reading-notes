@@ -123,7 +123,7 @@ class AuthorDelete(DeleteView):
 
 Create and update views use the dame template. Other custom views can be created.
 
-```html
+```
 
 {% extends "base_generic.html" %}
 
@@ -174,7 +174,7 @@ urlpatterns += [
 
 Child Page:
 
-```html
+```
 {% extends "base_generic.html" %}
 
 {% block content %}
