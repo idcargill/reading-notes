@@ -123,7 +123,7 @@ class AuthorDelete(DeleteView):
 
 Create and update views use the dame template. Other custom views can be created.
 
-```
+
 
 {% extends "base_generic.html" %}
 
@@ -137,7 +137,7 @@ Create and update views use the dame template. Other custom views can be created
   </form>
 {% endblock %}
 
-```
+
 
 Url patterns will need to point to form routes: 
 
@@ -174,14 +174,14 @@ urlpatterns += [
 
 Child Page:
 
-```
+
 {% extends "base_generic.html" %}
 
 {% block content %}
   <h1>Local Library Home</h1>
   <p>Welcome to LocalLibrary, a website developed by <em>Mozilla Developer Network</em>!</p>
 {% endblock %}
-```
+
 
 ### Static Files
 
