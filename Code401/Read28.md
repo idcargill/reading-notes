@@ -123,18 +123,6 @@ class AuthorDelete(DeleteView):
 
 Create and update views use the dame template. Other custom views can be created.
 
-```
-
-{% block content %}
-  <form action="" method="post">
-    {% csrf_token %}
-    <table>
-    {{ form.as_table }}
-    </table>
-    <input type="submit" value="Submit">
-  </form>
-{% endblock %}
-```
 
 
 Url patterns will need to point to form routes: 
@@ -153,6 +141,7 @@ urlpatterns += [
 [Django Views](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views)
 
 - Views are functions that process HTTP Requests. 
+
 
 ### Static Files
 
