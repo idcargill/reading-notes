@@ -124,19 +124,6 @@ class AuthorDelete(DeleteView):
 Create and update views use the dame template. Other custom views can be created.
 
 
-{% block content %}
-  <form action="" method="post">
-    {% csrf_token %}
-    <table>
-    {{ form.as_table }}
-    </table>
-    <input type="submit" value="Submit">
-  </form>
-{% endblock %}
-
-
-
-
 
 Url patterns will need to point to form routes: 
 
@@ -156,36 +143,7 @@ urlpatterns += [
 - Views are functions that process HTTP Requests. 
 
 
-### HTML TEMPLATE
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  {% block title %}<title>Local Library</title>{% endblock %}
-</head>
-<body>
-  {% block sidebar %}<!-- insert default navigation text for every page -->{% endblock %}
-  {% block content %}<!-- default content text (typically empty) -->{% endblock %}
-</body>
-</html>
-```
-
-Child Page:
-
-
-{% block content %}
-  <h1>Local Library Home</h1>
-  <p>Welcome to LocalLibrary, a website developed by <em>Mozilla Developer Network</em>!</p>
-{% endblock %}
-
-
 ### Static Files
 
-```html
-<!-- Add additional CSS in static file -->
-{% load static %}
-<link rel="stylesheet" href="{% static 'css/styles.css' %}">
-```
 
 - Set APP_DIRS: TRUE to search subdirectories.
