@@ -86,3 +86,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 28 - Django Crud](https://idcargill.github.io/reading-notes/Code401/Read28)
 
+[Reading 29 - Django Custom User](https://idcargill.github.io/reading-notes/Code401/Read29)
+
+
