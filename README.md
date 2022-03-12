@@ -88,4 +88,7 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 29 - Django Custom User](https://idcargill.github.io/reading-notes/Code401/Read29)
 
+[Reading 30 - Hash Map](https://idcargill.github.io/reading-notes/Code401/Read30)
+
+
 
