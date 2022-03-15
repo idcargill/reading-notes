@@ -90,5 +90,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 30 - Hash Map](https://idcargill.github.io/reading-notes/Code401/Read30)
 
+[Reading 31 - Django REST and Docker](https://idcargill.github.io/reading-notes/Code401/Read31)
 
 
