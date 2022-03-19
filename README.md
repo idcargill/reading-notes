@@ -92,4 +92,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 31 - Django REST and Docker](https://idcargill.github.io/reading-notes/Code401/Read31)
 
+[Reading 32 - DRF Permissions](https://idcargill.github.io/reading-notes/Code401/Read32)
 
