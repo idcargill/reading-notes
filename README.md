@@ -95,3 +95,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 32 - DRF Permissions](https://idcargill.github.io/reading-notes/Code401/Read32)
 
 [Reading 33 - JWT](https://idcargill.github.io/reading-notes/Code401/Read33)
+
+[Reading 34 - Django API Deployment](https://idcargill.github.io/reading-notes/Code401/Read34)
