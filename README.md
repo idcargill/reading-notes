@@ -99,3 +99,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 34 - Django API Deployment](https://idcargill.github.io/reading-notes/Code401/Read34)
 
 [Reading 35 - Graphs](https://idcargill.github.io/reading-notes/Code401/Read35)
+
+[Reading 36 - DSA Review](https://idcargill.github.io/reading-notes/Code401/Read36)
