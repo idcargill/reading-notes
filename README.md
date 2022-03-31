@@ -103,3 +103,5 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 36 - DSA Review](https://idcargill.github.io/reading-notes/Code401/Read36)
 
 [Reading 37 - React 1](https://idcargill.github.io/reading-notes/Code401/Read37)
+
+[Reading 38 - React 2](https://idcargill.github.io/reading-notes/Code401/Read38)
