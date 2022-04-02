@@ -106,4 +106,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 38 - React 2](https://idcargill.github.io/reading-notes/Code401/Read38)
 
-[Reading 39 - Nextjs](https://idcargill.github.io/reading-notes/Code401/Read39)
+[Reading 39 - React 3](https://idcargill.github.io/reading-notes/Code401/Read39)
+
+[Reading 41 - React 4](https://idcargill.github.io/reading-notes/Code401/Read41)

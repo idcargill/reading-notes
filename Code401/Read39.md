@@ -1,4 +1,4 @@
-# Nextjs
+# React 3 Nextjs
 
 [Nextjs Documentation](https://nextjs.org/learn/basics/create-nextjs-app)
 
