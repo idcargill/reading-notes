@@ -109,3 +109,6 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 [Reading 39 - React 3](https://idcargill.github.io/reading-notes/Code401/Read39)
 
 [Reading 41 - React 4](https://idcargill.github.io/reading-notes/Code401/Read41)
+
+[Reading 42 - Pythonisms](https://idcargill.github.io/reading-notes/Code401/Read42)
+
