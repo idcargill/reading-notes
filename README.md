@@ -112,3 +112,4 @@ Reading Notes for [Codefellows](https://codefellows.github.io/common_curriculum/
 
 [Reading 42 - Pythonisms](https://idcargill.github.io/reading-notes/Code401/Read42)
 
+[Reading 43 - OSS Contributions](https://idcargill.github.io/reading-notes/Code401/Read43)
